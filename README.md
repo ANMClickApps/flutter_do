@@ -1,16 +1,15 @@
 # flutter_digitalocean
 
-A new Flutter project.
-
+A new Flutter project with DigitalOcean.
+Easy way to createa Droplet with Flutter and DigitalOcean and connect with Flutter SSH Client
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+![Slide 16_9 - 3](https://user-images.githubusercontent.com/81313761/129470126-33ec8fbd-a693-40cb-8eed-5c2c489eae30.png)
 
-A few resources to get you started if this is your first Flutter project:
+![Slide 16_9 - 2](https://user-images.githubusercontent.com/81313761/129470116-e03c869f-fa7e-4652-9db1-8cb54fc67ce9.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Slide 16_9 - 1](https://user-images.githubusercontent.com/81313761/129470102-9d7fe35f-212a-46c9-8214-65d61c5fcc44.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##[YouTube] (https://youtu.be/IaAhmvfLJKw)
+
+
