@@ -10,6 +10,6 @@ Easy way to createa Droplet with Flutter and DigitalOcean and connect with Flutt
 
 ![Slide 16_9 - 1](https://user-images.githubusercontent.com/81313761/129470102-9d7fe35f-212a-46c9-8214-65d61c5fcc44.png)
 
-##[YouTube] (https://youtu.be/IaAhmvfLJKw)
+[YouTube](https://youtu.be/IaAhmvfLJKw)
 
 
